@@ -114,3 +114,74 @@ Aijinet        | [DB ERD](https://github.com/samchon/resume/blob/master/STORY.md
 Aijinet        | [Backend API Server](https://github.com/samchon/resume/blob/master/STORY.md#442-backend-api-server)     | TypeScript          | Library for Frontend
 Aijinet        | [Insurance Engine](https://github.com/samchon/resume/blob/master/STORY.md#443-insurance-engine)       | TypeScript          | Algorithm, Optimization
 Aijinet        | [Private Engine](https://github.com/samchon/resume/blob/master/STORY.md#444-private-engine-for-special-insurer)         | TypeScript          | Process level Blue-green
+
+--------------
+
+Github 를 통해서 홈페이지 또는 블로그 같은 웹페이지를 표시하고 사용 할 수 있습니다.
+
+ 
+
+https://pages.github.com/
+ 
+
+GitHub Pages
+
+Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+pages.github.com
+
+ 
+
+ 
+
+위의 사진처럼 new repository 를 생성하고 Repository name에 (username).github.io를 입력합니다.
+
+ 
+
+그리고 Create repository 버튼을 눌러 Repository를 생성합니다.
+
+ 
+
+그러면 페이지 생성은 완료 되었습니다.
+
+ 
+
+생성한 repositiry 에서 Setting 으로 이동합니다.
+
+ 
+
+options 탭 에서 스크롤 하다보면 GitHub Pages 라는 항목이 있습니다.
+
+ 
+
+해당 항목에서 "Your site is published at https://(username).github.io/" 라는 메시지가 표시되어서 체크가 되어 있다면
+
+ 
+
+정상적으로 page 등록이 완료 되었습니다.
+
+ 
+
+브라우저에서 해당 주소를 입력하면 페이지가 출력되는 것을 보실수 있습니다.
+
+ 
+
+페이지를 수정하거나 등록하시려면 해당 repository에 index.html 파일을 생성하여 하단의 코드를 입력합니다.
+
+ 
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
+
+ 
+
+그리고 해당 index.html 파일을 master Brench로 push 하면 아래와 같은 화면으로 변경 되어있습니다.
+
+ 
+
+해당 방법으로 html 페이지를 꾸며서 이용하면 됩니다.
