@@ -52,16 +52,17 @@
 
 <br />
 
-## 3. 🍻 [Korea Development Bank | AI Loan Assessment System]()
+## 3. 🍻 Korea Development Bank 
+##        AI Loan Assessment System
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> KDB 산업은행 AI NLP 여신심사 시스템
 >
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> - 개발기간 : 2019.06.- 2020.02
+> - 핵심 역할 : 차장, 인공지능 여신심사 시스템 기획 및 개발
+> - Language : Python
+> - Skill : D3, MySQL
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명](http://)
 
 <br />
 
