@@ -20,16 +20,15 @@
 
 ## 1. 🛫 Seoulanglican.org
 
->  _(내일배움캠프 - 4416조 팀프로젝트)_
+>  Wordpress 사이트 제작
 >
-> - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
+> - 개발기간 : 2024.10 - 2024.12
+> - 핵심 역할 : 디지털 매니저, 사이트 설계, 디자인 및 개발.
 >
->> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
+>> Web
+>> - Skill : Wordpress
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> [프로젝트 상세 설명(Back-end)]()  
 >
 >> Front-end
 >> - Language : javascript
