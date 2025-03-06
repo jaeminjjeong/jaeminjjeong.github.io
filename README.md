@@ -39,7 +39,7 @@
 
 <br />
 
-## 2. 👞 아이작 [http://aisac.kobaco.co.kr](http://aisac.kobaco.co.kr/)
+## 2. 👞 [AISAC](http://aisac.kobaco.co.kr/)
 
 > 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
