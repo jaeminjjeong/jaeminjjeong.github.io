@@ -52,7 +52,7 @@
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+## 3. 🍻 [Korea Development Bank | AI Loan Assessment System]()
 
 > 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
 >
