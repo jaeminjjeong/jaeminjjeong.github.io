@@ -1,6 +1,6 @@
 # 📜 정재민 포트폴리오
 
-> 정재민(Dongwoo Kim) - kimphysicsman 포트폴리오
+> 정재민(Jaemin Jeong)  포트폴리오
 
 <br />
 
